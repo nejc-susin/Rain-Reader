@@ -1,6 +1,7 @@
 ## Synopsis
 
 Rain Reader is an open source tool for digitization of paper strip pluviograph charts. It automatically processes chart images using computer vision algorithms and allows users to correct the detected curve manually if the automatic process is not sufficiently accurate. 
+The first version was made available in 2016.
 
 ## Motivation
 
@@ -8,7 +9,7 @@ Paper strip chart digitization was mostly done manually in the past. These metho
 
 ## Author
 
-The software was developed by Nejc Sušin at the University of Ljubljana, Faculty of computer and information science.
+The software was developed at the University of Ljubljana, Faculty of computer and information science by Nejc Sušin, supervised by Assoc. Prof. PhD Peter Peer.
 
 ## License
 
